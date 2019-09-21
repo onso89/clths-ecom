@@ -4,7 +4,6 @@ import Directory from "../../components/directory/directory.component";
 import "./homepage.styles.scss";
 
 const HomePage = () => (
-  //some commments for testing github
   <div className="homepage">
     <Directory></Directory>
   </div>
